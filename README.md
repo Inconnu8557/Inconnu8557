@@ -7,7 +7,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'inté
 - 👯 Je cherche à collaborer sur un second cerveau alimenté par ia 
 - 🤔 Je cherche de l'aide pour la partie javascript
 - 💬 Posez-moi des questions sur le front end
-- 📫 Comment me joindre: [3dalesscreator@gmail.com]
+- 📫 Comment me joindre: 3dalesscreator@gmail.com
 
 
 ## 🛠️ Languages and Tools
@@ -19,7 +19,6 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'inté
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- [Add more tools and languages here]
 
 ## 📈 GitHub Stats
 ![Inconnu8557's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inconnu8557&show_icons=true&theme=radical)
