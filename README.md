@@ -24,7 +24,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'inté
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=Inconnu8557)](https://github.com/Inconnu8557/Inconnu8557)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=un-autre-repo)]((https://github.com/Inconnu8557/MyPortfolio))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=MyPortfolio)]((https://github.com/Inconnu8557/MyPortfolio))
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Inconnu8557&theme=onedark)
