@@ -1,5 +1,12 @@
 # Hi there, I'm Inconnu8557! 👋
 
+## Table des matières
+- [🚀 About Me](#-about-me)
+- [🛠️ Languages and Tools](#-languages-and-tools)
+- [📈 GitHub Stats](#-github-stats)
+- [📌 Pinned Repositories](#-pinned-repositories)
+- [🏆 GitHub Trophies](#-github-trophies)
+  
 Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'intéresse vivement àu [développement web, a l'inteligence atificielle etc]... Voici un peu de moi :
 ## 🚀 About Me
 - 🔭 Je travaille en ce moment sur ma propre intelligence artificielle
