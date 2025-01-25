@@ -7,7 +7,7 @@
 - [📌 Pinned Repositories](#-pinned-repositories)
 - [🏆 GitHub Trophies](#-github-trophies)
   
-Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'intéresse vivement au développement web, a l'inteligence atificielle etc... Voici un peu de moi :
+Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'intéresse vivement au développement web, a l'intelligence artificielle etc... Voici un peu de moi :
 ## 🚀 About Me
 - 🔭 Je travaille en ce moment sur ma propre intelligence artificielle
 - 🌱 J'apprends actuellement siur le front end
