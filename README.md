@@ -36,6 +36,5 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'inté
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Inconnu8557&theme=onedark)
 
-## Au revoir
-![Au revoir](https://media.tenor.com/8pF8U8HLfCMAAAAM/kitty-highkitten.gif)
+##Au revoir 
 
