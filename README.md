@@ -36,5 +36,4 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'inté
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Inconnu8557&theme=onedark)
 
-## Au revoir 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F70000&width=435&lines=Au+revoir+et+%C3%A0+bient%C3%B4t)](https://git.io/typing-svg)
