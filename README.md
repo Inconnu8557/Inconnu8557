@@ -2,16 +2,15 @@
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'intéresse vivement àu [développement web, a l'inteligence atificielle etc]... Voici un peu de moi :
 ## 🚀 About Me
-- 🔭 Je travaille en ce moment sur un second cerveau alimenté par ia
+- 🔭 Je travaille en ce moment sur ma propre intelligence artificielle
 - 🌱 J'apprends actuellement siur le front end
-- 👯 Je cherche à collaborer sur un second cerveau alimenté par ia 
+- 👯 Je cherche à collaborer sur ma propre intelligence artificielle
 - 🤔 Je cherche de l'aide pour la partie javascript
 - 💬 Posez-moi des questions sur le front end
 - 📫 Comment me joindre: 3dalesscreator@gmail.com
 
 
 ## 🛠️ Languages and Tools
-[Your favorite languages and tools with icons]
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
