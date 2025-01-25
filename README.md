@@ -23,8 +23,8 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'inté
 ![Inconnu8557's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inconnu8557&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=your-repo-name)]([https://github.com/Inconnu8557/your-repo-name](https://github.com/Inconnu8557/intelligence-artificielle))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=your-repo-name)](https://github.com/Inconnu8557/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=Inconnu8557)](https://github.com/Inconnu8557/Inconnu8557)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=un-autre-repo)](https://github.com/Inconnu8557/un-autre-repo)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Inconnu8557&theme=onedark)
