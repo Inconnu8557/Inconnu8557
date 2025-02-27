@@ -9,10 +9,10 @@
   
 Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'intéresse vivement au développement web, a l'intelligence artificielle etc... Voici un peu de moi :
 ## 🚀 About Me
-- 🔭 Je travaille en ce moment sur ma propre intelligence artificielle
-- 🌱 J'apprends actuellement siur le front end
-- 👯 Je cherche à collaborer sur ma propre intelligence artificielle
-- 🤔 Je cherche de l'aide pour la partie javascript
+- 🔭 Je travaille en ce moment ma propre web app pour la création de logo
+- 🌱 J'apprends actuellement sur le front end
+- 👯 Je cherche à collaborer sur ma propre web app pour la création de logo
+- 🤔 Je cherche de l'aide pour la partie javascript et back-end
 - 💬 Posez-moi des questions sur le front end
 - 📫 Comment me joindre: 3dalesscreator@gmail.com
 
