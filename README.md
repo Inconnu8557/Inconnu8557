@@ -30,8 +30,8 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui s'inté
 ![Inconnu8557's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inconnu8557&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=Logocraft)](https://github.com/Inconnu8557/Logocraft)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=nextwave)](https://github.com/Inconnu8557/nextwave)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=Logocraft&theme=dark)](https://github.com/Inconnu8557/Logocraft)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inconnu8557&repo=nextwave&theme=dark)](https://github.com/Inconnu8557/nextwave)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Inconnu8557&theme=onedark)
