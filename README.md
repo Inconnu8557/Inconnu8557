@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I am a passionate developer with a keen interest i
 - [📈 GitHub Stats](#github-stats)
 - [📌 Pinned Repositories](#pinned-repositories)
 - [🏆 GitHub Trophies](#github-trophies)
-- [🔗 Connect with me](#connect-with-me)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on my own web app for logo creation.
