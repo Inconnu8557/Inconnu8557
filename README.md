@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I am a passionate developer with a keen interest in web development and artificial intelligence. Here's a bit about me:
 
-![Profile Banner](https://your-image-link.com/banner.png)
-
 ## Table of Contents
 - [🚀 About Me](#about-me)
 - [🛠️ Languages and Tools](#languages-and-tools)
