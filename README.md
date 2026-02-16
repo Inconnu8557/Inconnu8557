@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a passionate developer with a keen interest i
 - 👯 I’m looking to collaborate on my web app for logo creation.
 - 🤔 I’m looking for help with JavaScript and back-end development.
 - 💬 Ask me about front-end development.
-- 📫 How to reach me: [3dalesscreator@gmail.com](mailto:3dalesscreator@gmail.com)
+- 📫 How to reach me: [3dalesscreator@gmail.com](mailto:mlalessandro8557@gmail.com)
 
 ## 🛠️ Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
